@@ -4,30 +4,79 @@ body{
 }
 
 .paisagem{
-  margin: 80px;
+  margin-left: 80px;
+  margin-top: 80px;
+}
+
+.paisagem2{
+    margin-left: 80px;
+    margin-top: -72px;
+  
+}
+
+.paisagem3{
+    margin-left: 80px;
+    margin-top: 10px;
+}
+
+.paisagem4{
+    margin-left: 80px;
+    margin-top: 80px;
+}
+
+p{
+  margin-left: 20px;
+  margin-top: 20px;
+  text-align: center;
+  line-height: 1.4em;
+  height: 144px;
+  
+}
+
+#tt2{
+  
+    margin-left: 78px;
+    padding-left: 2px;
+    height: 18px;
+}
+
+#tt3{
+    margin-left: 78px;
+    padding-left: 2px;
+    padding-top: 9px;
+    height: 12px;
   
 }
 
 
-p{
-  text-align: center;
-  line-height: 1.4em;
-  height: 50px;
-  margin:78px;
-}
-
-
-h1{
-  margin-left: 78px;
-  padding-left: 2px;
-  padding-top: 9px;
-  height: 12px;
-}
-
 h2{
   margin-left: 78px;
   padding-left: 2px;
-  height: 2px;
+  height: 42px;
+}
+
+
+#para1{
+    margin-top: 34px;
+    margin-left: 80px;
+    text-align: left;
+}
+
+#para2{
+    margin-top: -28px;
+    margin-left: 80px;
+    text-align: left;
+}
+
+#para3{
+    margin-top: -88px;
+    margin-left: 80px;
+    text-align: left;
+}
+
+li{
+  margin-top: -138px;
+  margin-left: 62px;
 }
 
 
