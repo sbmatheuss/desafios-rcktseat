@@ -1,4 +1,6 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Alice&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
 body{
   background-color: rgb(0, 0, 0);
 }
@@ -30,66 +32,103 @@ p{
   text-align: center;
   line-height: 1.4em;
   height: 144px;
-  
+  font-family: "Open Sans";
+  font-style: italic;
+  font-size: 15px;
 }
 
 #tt2{
-  
+    color: rgba(225, 98, 79, 1);
     margin-left: 78px;
     padding-left: 2px;
-    height: 18px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #tt3{
+    color:  rgba(225, 98, 79, 1);
+    font-size: 16px;
     margin-left: 78px;
     padding-left: 2px;
     padding-top: 9px;
-    height: 12px;
-  
+    height: 2px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
+h1{
+  margin-left: 78px;
+  padding-top: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
 
 h2{
+  margin-top: 24px;
   margin-left: 78px;
   padding-left: 2px;
   height: 42px;
+  font-size: 46px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 
 #para1{
-    margin-top: 34px;
-    margin-left: 80px;
+    margin-top: 29px;
+    margin-left: 76px;
+    margin-bottom: 64px;
+    padding-left: 5px;
     text-align: left;
+    font-family: "Open Sans";
+    font-size: 19px;
+    letter-spacing: -1px;
+    
 }
 
 #para2{
     margin-top: -28px;
     margin-left: 80px;
     text-align: left;
+    font-family: "Open Sans";
 }
 
 #para3{
     margin-top: -88px;
     margin-left: 80px;
     text-align: left;
+    font-family: "Open Sans";
 }
 
 #para4{
     margin-top: -27px;
     margin-left: 80px;
     text-align: left;
+    font-family: "Open Sans";
 }
 
 #para5{
     margin-top: -98px;
     margin-left: 80px;
     text-align: left;
+    font-family: "Open Sans";
 }
 
 #para6{
-  margin-top: -76px;
+  margin-top: -68px;
   padding-left: 58px;
   padding-top: -2px;
+  text-align: left;
+  font-family: "Open Sans";
+}
+
+#para7{
+  margin-top: -72px;
+  margin-left: 76px;
+  text-align: left;
+  font-family: "Open Sans";
+}
+
+#para8{
+  margin-top: 200px;
+  font-family: "Open Sans";
 }
 
 #parque{
@@ -99,8 +138,9 @@ h2{
     height: 90px;
 }
 
-li{
-  margin-top: -138px;
+
+ul{
+  margin-top: -132px;
   margin-left: 62px;
 }
 
@@ -120,7 +160,8 @@ li{
 }
 
 footer{
-  padding: 80px;
+  padding: 20px;
+  margin-top: -80px;
   text-align: center;
   
 }
