@@ -8,22 +8,27 @@ body{
 .paisagem{
   margin-left: 80px;
   margin-top: 80px;
+  object-fit: cover;
 }
 
 .paisagem2{
     margin-left: 80px;
     margin-top: -72px;
-  
+    object-fit: cover;
 }
 
 .paisagem3{
     margin-left: 80px;
     margin-top: 48px;
+    object-fit: cover;
+
 }
 
 .paisagem4{
     margin-left: 80px;
     margin-top: 48px;
+    object-fit: cover;
+
 }
 
 p{
@@ -142,6 +147,10 @@ h2{
 ul{
   margin-top: -132px;
   margin-left: 62px;
+}
+
+ul li::marker{
+  color: black;
 }
 
 .cor1{
